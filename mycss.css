@@ -1,0 +1,37 @@
+#grid {
+
+    width: 70%;
+    height: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0px;
+
+}
+
+.reset-container {
+    text-align: center;
+}
+
+.square {
+    border: 3px solid #B2b2b2;
+    border-spacing: 0px;
+    padding:0px;
+    margin:0px;
+    background-color: #D6D6D6;
+/*    border-radius:10px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;*/
+
+
+}
+
+
+.fill {
+    background-color: #b2b2b2;
+}
+
